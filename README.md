@@ -32,7 +32,7 @@ During this cleaning phase, I discovered that the Q2 dataset employed a column n
 Afterwards, I created a new table for each quarter that contained the original data and added columns recording each trip's duration in minutes, the weekday, and the month of the trip. Then, the minimum, maximum, and average trip duration of these new tables are tested, revealing durations lasting over 24 hours. These values appear to indicate errors that ought to be excluded from final analysis. Filtering techniques are therefore applied to exclude these error values during analysis.
 
 ### Analyze Data
-SQL Code: Analyze Data
+[SQL Code: Analyze Data](https://github.com/timjamesmorales/Cyclistic-Case-Study/blob/main/Analyze%20Data.sql)
 
 In order to generate useful insights, several analyses are performed on the new tables for each quarter. Each query is executed with filters that exclude error values discovered earlier. The following insights are gleaned during this phase: 
 
