@@ -23,7 +23,7 @@ SQL will be used to perform the data cleaning, analysis, and merger of the datas
 Each quarter's CSV data file is uploaded as a table to the 'cyclistic-422905.biketrip_data' dataset. In addition to each individual quarter being analyzed, the 2019 year as a whole will be analyzed as well. In order to do so, I will create a new table and UNION ALL the previous four quarters into one table called 'year_2019'. This full year table contains 3,818,004 rows.
 
 ### Cleaning Data
-SQL Code: Cleaning Data
+[SQL Code: Cleaning Data]
 
 Prior to actual data analysis, the raw dataset for each quarter must be inspected, cleaned, and transformed. First, each column's data type is inspected. Next, each column is checked for null values, starting with the 'trip_id' column then substituting for each other column. Duplicate 'trip_id' rows are checked for as well, with none found. Then, the 'trip_id' column is inspected to ensure that each string is the same length: 8 characters. 
 
