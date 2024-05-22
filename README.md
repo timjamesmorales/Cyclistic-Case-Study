@@ -23,3 +23,10 @@ SQL will be used to perform the data cleaning, analysis, and merger of the datas
 Each quarter's CSV data file is uploaded as a table to the 'cyclistic-422905.biketrip_data' dataset. In addition to each individual quarter being analyzed, the 2019 year as a whole will be analyzed as well. In order to do so, I will create a new table and UNION ALL the previous four quarters into one table called 'year_2019'. This full year table contains 3,818,004 rows.
 
 ### Cleaning Data
+SQL Code: Cleaning Data
+
+Prior to actual data analysis, the raw dataset for each quarter must be inspected, cleaned, and transformed. First, each column's data type is inspected. Next, each column is checked for null values, starting with the 'trip_id' column then substituting for each other column. Duplicate 'trip_id' rows are checked for as well, with none found. Then, the 'trip_id' column is inspected to ensure that each string is the same length: 8 characters. 
+
+During this cleaning phase, I discovered that the Q2 dataset employed a column naming convention quite different than that of the other three quarters, which were all the same. In order to standardize the naming convention to that of the other datasets, I utilized the ALTER TABLE and RENAME COLUMN functions on the Q2 dataset, renaming every column accordingly.
+
+Afterwards, I created a new table for each quarter that contained the original data and added columns recording each trip's duration in minutes, the weekday, and the month of the trip. Then, the minimum, maximum, and average trip duration of these new tables are tested, revealing durations lasting over 24 hours. These values appear to indicate errors that ought to be excluded from final analysis. Filtering techniques are therefore applied to exclude these error values during analysis.
