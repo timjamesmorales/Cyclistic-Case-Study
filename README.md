@@ -1,5 +1,5 @@
 # Cyclistic Case Study
-##### Performed By: Timothy Morales
+###### Performed By: Timothy Morales
 ## Introduction
 This case study serves as a capstone project to Google's 6 month Data Analytics Certification Course. It intends to showcase proficiency in SQL, Tableau, and Spreadsheets.  
 
