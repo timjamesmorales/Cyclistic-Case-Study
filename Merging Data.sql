@@ -1,4 +1,4 @@
--- After uploading each quarter's CSV file as a table to the dataset, I create a new table and merge them all to analyze the year as a whole
+-- After uploading each quarter's CSV file as a table to the dataset, I create a new table and merge them all to analyze the year as a whole.
 
 CREATE TABLE cyclistic-422905.biketrip_data.year_2019 AS (
 SELECT *
