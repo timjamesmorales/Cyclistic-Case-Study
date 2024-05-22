@@ -49,10 +49,8 @@ Link to the [Tableau Dashboard](https://public.tableau.com/app/profile/timothy.m
 
 Q1:
 ![Q1](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/0422b811-cad7-4f26-a6ac-cefd0197e6e0)
-Most No. of Rides per Weekday: Thurs. & Fri. (Subscribers) ; Sun. & Sat. (Customers),
-Avg. Duration of Rides per Weekday: Mostly Even (Subscribers) ; Up Sun. Sat. & Tues. (Customers),
-Most No. of Rides per Month: March (Subscribers) ; March (Customers),
-Avg. Duration of Rides per Month: Mostly Even (Subscribers) ; Down Feb. (Customers).
+The most rides per weekday are taken on Thurs & Fri (Subscribers) and Sun & Sat (Customers). The longest rides per weekday are taken on Sun Sat & Tues (Customers). 
+The most rides per month are taken in March (both). The longest rides are down in Feb (Customers).
 
 Q2:
 ![Q2](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/7aed9cf2-ab9e-460f-84af-310489e1bf36)
