@@ -54,7 +54,7 @@ Customers take the most rides on Sat & Sun, with March being the busiest month. 
 
 Q2:
 ![Q2](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/7aed9cf2-ab9e-460f-84af-310489e1bf36)
-
+Subscribers take the most rides on Tues Wed & Thurs, with June being the busiest month. Ride
 
 Q3:
 ![Q3](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/96a38b94-2817-4d31-9ebf-6576d6709bd7)
