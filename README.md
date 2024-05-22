@@ -34,7 +34,8 @@ Afterwards, I created a new table for each quarter that contained the original d
 ### Analyze Data
 SQL Code: Analyze Data
 
-In order to generate useful insights, several analyses are performed on the new tables for each quarter. Each query is executed with filters that exclude error values discovered earlier. The following insights are gleaned during this phase: Minimum, maximum, and average trip duration; Overall average ride length for casual riders vs. annual members; Average ride length for casual riders vs. annual members per weekday; Average ride length for casual riders vs. annual members per month; Overall number of rides for casual riders vs. annual members; Number of rides for casual riders vs. annual members per weekday; Number of rides for casual riders vs. annual members per month.
+In order to generate useful insights, several analyses are performed on the new tables for each quarter. Each query is executed with filters that exclude error values discovered earlier. The following insights are gleaned during this phase: 
+Minimum, maximum, and average trip duration; Overall average ride length for casual riders vs. annual members; Average ride length for casual riders vs. annual members per weekday; Average ride length for casual riders vs. annual members per month; Overall number of rides for casual riders vs. annual members; Number of rides for casual riders vs. annual members per weekday; Number of rides for casual riders vs. annual members per month.
 
 To observe ride patterns throughout the day, the number of rides for casual riders vs. annual members per hour per weekday is determined. To avoid confusion later during Tableau visualization, the 'day_of_week' column is modified to change the numeric values of the days of the week into their proper names.
 
