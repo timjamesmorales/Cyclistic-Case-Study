@@ -41,3 +41,5 @@ Minimum, maximum, and average trip duration; Overall average ride length for cas
 To observe ride patterns throughout the day, the number of rides for casual riders vs. annual members per hour per weekday is determined. To avoid confusion later during Tableau visualization, the 'day_of_week' column is modified to change the numeric values of the days of the week into their proper names.
 
 The most popular start and end stations for casual riders vs. annual members is also determined. The results of these queries are stored as tables that can be JOINed so as to determine the total number of visits to each station for casual riders vs. annual members. Then, the top ten most visited stations for casual riders vs. annual members are determined.
+
+Each query result is saved as a CSV file and organized into its respective Drive folder within the overall project folder. Then, each CSV file is merged into one spreadsheet separated by labeled tabs. Each quarter's spreadsheet (and the full year's) will be used as data sources for Tableau visualization.
