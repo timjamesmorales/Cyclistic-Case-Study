@@ -45,3 +45,4 @@ The most popular start and end stations for casual riders vs. annual members is 
 Each query result is saved as a CSV file and organized into its respective Drive folder within the overall project folder. Then, each CSV file is merged into one spreadsheet separated by labeled tabs. Each quarter's spreadsheet (and the full year's) will be used as data sources for Tableau visualization.
 
 ## Visualize and Share
+Link to the [Tableau Dashboard](https://public.tableau.com/app/profile/timothy.morales6239/viz/CyclisticRideAnalysis2019/Q1):
