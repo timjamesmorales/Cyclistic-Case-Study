@@ -47,5 +47,17 @@ Each query result is saved as a CSV file and organized into its respective Drive
 ## Visualize and Share
 Link to the [Tableau Dashboard](https://public.tableau.com/app/profile/timothy.morales6239/viz/CyclisticRideAnalysis2019/Q1):
 
+Q1:
 ![Q1](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/0422b811-cad7-4f26-a6ac-cefd0197e6e0)
 
+Q2:
+![Q2](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/7aed9cf2-ab9e-460f-84af-310489e1bf36)
+
+Q3:
+![Q3](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/96a38b94-2817-4d31-9ebf-6576d6709bd7)
+
+Q4:
+![Q4](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/33a10785-4f20-4de7-a57b-98d159e830c4)
+
+Full Year:
+![Full Year](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/37a71617-ce5e-4fb1-b42b-7dcd6d754eb1)
