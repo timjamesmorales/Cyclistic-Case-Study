@@ -71,5 +71,12 @@ Full Year:
 
 ## Action
 ### Summary
+Across the Board: 
+-Customer No. of Rides > Subscriber No. of Rides
+-Customer Avg. Duration < Subscriber Avg. Duration
+-Customer No. Rides UP on Weekends
+-Subscriber No. Rides UP on Weekdays
+-Subscriber Avg. Duration generally the same every day
+-Overall Avg. Duration higher in summer months
 
 ### Recommendations
