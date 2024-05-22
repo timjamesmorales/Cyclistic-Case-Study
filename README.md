@@ -49,10 +49,10 @@ Link to the [Tableau Dashboard](https://public.tableau.com/app/profile/timothy.m
 
 Q1:
 ![Q1](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/0422b811-cad7-4f26-a6ac-cefd0197e6e0)
--Most No. of Rides per Weekday: Thurs. & Fri. (Subscribers) ; Sun. & Sat. (Customers)
--Avg. Duration of Rides per Weekday: Mostly Even (Subscribers) ; Up Sun. Sat. & Tues. (Customers)
--Most No. of Rides per Month: March (Subscribers) ; March (Customers)
--Avg. Duration of Rides per Month: Mostly Even (Subscribers) ; Down Feb. (Customers)
+Most No. of Rides per Weekday: Thurs. & Fri. (Subscribers) ; Sun. & Sat. (Customers),
+Avg. Duration of Rides per Weekday: Mostly Even (Subscribers) ; Up Sun. Sat. & Tues. (Customers),
+Most No. of Rides per Month: March (Subscribers) ; March (Customers),
+Avg. Duration of Rides per Month: Mostly Even (Subscribers) ; Down Feb. (Customers).
 
 Q2:
 ![Q2](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/7aed9cf2-ab9e-460f-84af-310489e1bf36)
@@ -72,11 +72,11 @@ Full Year:
 ## Action
 ### Summary
 Across the Board: 
--Customer No. of Rides > Subscriber No. of Rides
--Customer Avg. Duration < Subscriber Avg. Duration
--Customer No. Rides UP on Weekends
--Subscriber No. Rides UP on Weekdays
--Subscriber Avg. Duration generally the same every day
--Overall Avg. Duration higher in summer months
+Customer No. of Rides > Subscriber No. of Rides,
+Customer Avg. Duration < Subscriber Avg. Duration,
+Customer No. Rides UP on Weekends,
+Subscriber No. Rides UP on Weekdays,
+Subscriber Avg. Duration generally the same every day,
+Overall Avg. Duration higher in summer months.
 
 ### Recommendations
