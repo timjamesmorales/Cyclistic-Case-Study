@@ -18,7 +18,7 @@ All personally identifiable information has been removed from the dataset. The d
 SQL will be used to perform the data cleaning, analysis, and merger of the datasets. This tool was chosen due to the large amount of raw data I will be working with, exceeding 3.8 million rows. Datasets of this size render spreadsheets impractical, so BigQuery will instead be the platform of choice for this section. 
 
 ### Uploading Data
-SQL Code: Merging Data
+[SQL Code: Merging Data](https://github.com/timjamesmorales/Cyclistic-Case-Study/blob/main/Merging%20Data.sql)
 
 Each quarter's CSV data file is uploaded as a table to the 'cyclistic-422905.biketrip_data' dataset. In addition to each individual quarter being analyzed, the 2019 year as a whole will be analyzed as well. In order to do so, I will create a new table and UNION ALL the previous four quarters into one table called 'year_2019'. This full year table contains 3,818,004 rows.
 
