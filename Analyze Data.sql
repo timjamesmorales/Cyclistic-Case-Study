@@ -1,1 +1,2 @@
+-- Each query below is executed with filters that exclude error values discovered during cleaning.
 -- 
