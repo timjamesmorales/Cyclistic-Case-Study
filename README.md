@@ -77,7 +77,7 @@ Several conclusions are evident when looking at the quarterly and yearly data as
 
 ### Recommendations
 
-Some recommendations to help convert casual riders into annual members include:
+Some recommendations to help convert casual riders into annual members:
 
 1. Offering membership discounts during summer months & weekends, when there are more casual customers taking rides.
 2. Offering free-trial periods during the holiday season, as there is an interesting increase in casual customer ride duration during December.
