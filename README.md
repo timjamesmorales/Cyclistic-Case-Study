@@ -64,7 +64,8 @@ Customers take the most rides on weekends, with August being the busiest month. 
 
 Q4:
 ![Q4](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/33a10785-4f20-4de7-a57b-98d159e830c4)
-
+Subscribers take the most rides on Mon & Tues, with October being the busiest month by far. Ride durations are mostly the same every day and month.
+Customers take the most rides on weekends, with October being the busiest month by far. Ride durations are higher on weekends, and slightly higher during December.
 
 Full Year:
 ![Full Year](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/37a71617-ce5e-4fb1-b42b-7dcd6d754eb1)
