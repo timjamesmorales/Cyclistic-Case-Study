@@ -72,12 +72,7 @@ Full Year:
 
 ## Action
 ### Summary
-Across the Board: 
-Customer No. of Rides > Subscriber No. of Rides,
-Customer Avg. Duration < Subscriber Avg. Duration,
-Customer No. Rides UP on Weekends,
-Subscriber No. Rides UP on Weekdays,
-Subscriber Avg. Duration generally the same every day,
-Overall Avg. Duration higher in summer months.
+
+Several conclusions are evident when looking at the quarterly and yearly data as a whole. Generally, the number of customer rides is higher than the number of subscriber rides. However, the average duration of subscriber rides is generally higher than that of customer rides. Customer ride numbers tend to be up on weekends, while subscriber ride numbers tend to be up on weekdays. Subscriber duration is generally the same every day, while customer duration may depending on the season. Overall, rides and average durations tend to be much higher during the warmer/summer months for both user types, peaking in August. Interestingly, there is a dip in the number of customer rides during February, with a late year surge in December.
 
 ### Recommendations
