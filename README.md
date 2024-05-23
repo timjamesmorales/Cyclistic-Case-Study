@@ -50,11 +50,12 @@ Link to the [Tableau Dashboard](https://public.tableau.com/app/profile/timothy.m
 Q1:
 ![Q1](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/0422b811-cad7-4f26-a6ac-cefd0197e6e0)
 Subscribers take the most rides on Thurs & Fri, with March being the busiest month. Ride durations are generally the same every day and every month.
-Customers take the most rides on Sat & Sun, with March being the busiest month. Ride durations are up Sat Sun & Tues, and down during Feb.
+Customers take the most rides on Sat & Sun, with March being the busiest month. Ride durations are higher Sat Sun & Tues, and lower during Feb.
 
 Q2:
 ![Q2](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/7aed9cf2-ab9e-460f-84af-310489e1bf36)
-Subscribers take the most rides on Tues Wed & Thurs, with June being the busiest month. Ride
+Subscribers take the most rides on Tues Wed & Thurs, with June being the busiest month. Ride durations are slightly higher on weekends, and slightly higher during June.
+Customers take the most rides on Fri Sat & Sun, with June being the busiest month. Ride durations are higher on Sat & Sun, and mostly the same every month.
 
 Q3:
 ![Q3](https://github.com/timjamesmorales/Cyclistic-Case-Study/assets/167924910/96a38b94-2817-4d31-9ebf-6576d6709bd7)
