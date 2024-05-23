@@ -79,4 +79,10 @@ Several conclusions are evident when looking at the quarterly and yearly data as
 
 Some recommendations to help convert casual riders into annual members include:
 
-1.
+1. Offering membership discounts during summer months & weekends, when there are more casual customers taking rides.
+2. Offering free-trial periods during the holiday season, as there is an interesting increase in casual customer ride duration during December.
+3. Creating an in-app milestone tracker that rewards riders with higher ride duration times, targeting casual customers who tend to have higher ride durations.
+4. Hosting in-app milestone competitions during the peak summer months and offering membership rewards/discounts to winners, boosting engagement and publicity.
+5. Collecting more data about rider behavior patterns to better personalize marketing for different consumer segments.
+
+Through the implementation of these recommendations, Cyclistic can successfully maximize the number of annual memberships and improve the future success of the company.
